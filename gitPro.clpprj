@@ -1,8 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<project name="C:/Users/mazza/OneDrive/Desktop/gitPro/gitPro.clpprj">
+<project name="C:\Users\mazza\OneDrive\Desktop\gitPro\gitPro.clpprj">
  <settings>
   <PM_URL><![CDATA[http://localhost/gitPro]]></PM_URL>
   <PM_HOME_URL><![CDATA[http://localhost/gitPro]]></PM_HOME_URL>
   <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
  </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\Users\mazza\OneDrive\Desktop\gitPro\index.html" crc="1578761079017"/>
+  <file name="C:\Users\mazza\OneDrive\Desktop\gitPro\app.js" crc="1578800260029"/>
+ </filescache>
 </project>
